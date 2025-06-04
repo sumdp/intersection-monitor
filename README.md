@@ -1,1 +1,3 @@
 # intersection-monitor
+
+People in STL drive like maniacs. Stop signs are not respected, I've pretty much labelled this interesection Stop as 'optional' (in jest, but at certain times of day it is not so in jest). That said, this led me to believe it would be fun to create a 'toy' that would highlight when cars are running the Stop and possibly count how many do it. From there we could build this out and analyze times of day this is more frequent, which car colours (or make?) are more likely to run this, etc. etc. Lots of fun ahead, should we continue building this out beyond the proof of "look, I can do a lot more than I would admit". 
